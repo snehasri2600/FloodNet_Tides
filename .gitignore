@@ -1,0 +1,3 @@
+# Large regenerated tidal data files (reproducible by re-running tidal_data_format_conversion.ipynb)
+tidal_unified.geojson
+usgs_water_levels.geojson
