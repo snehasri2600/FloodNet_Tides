@@ -1,11 +1,14 @@
-# Large regenerated tidal data files (reproducible by re-running tidal_data_format_conversion.ipynb)
-tidal_analysis/tidal_unified.geojson
-tidal_analysis/usgs_water_levels.geojson
-tidal_analysis/tide_predictions.geojson
+# Large regenerated tidal data files (reproducible by re-running 1_tidal_data_format_conversion.ipynb)
+2_tidal_analysis/tidal_unified.geojson
+2_tidal_analysis/usgs_water_levels.geojson
+2_tidal_analysis/tide_predictions.geojson
 
 # Large regenerated NOAA observed water-level cache (reproducible by re-running
 # Tidal_Corroboration.ipynb; ~9 MB, 2025-only)
-data_gap_exploration/noaa_observed_water_levels.csv
+3_data_gap_exploration/3_tidal/noaa_observed_water_levels.csv
+
+# Large regenerated 311 call cache (reproducible by re-running 311_Call_Verification.ipynb)
+3_data_gap_exploration/4_311/flooding_311_2025.csv
 
 # NCEI CDO API token — secret, must never be committed
-data_gap_exploration/.ncei_token
+3_data_gap_exploration/2_weather/.ncei_token

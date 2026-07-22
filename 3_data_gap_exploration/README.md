@@ -1,4 +1,4 @@
-# data_gap_exploration pipeline
+# 3_data_gap_exploration pipeline
 
 Investigates the 2025 FloodNet public-data gap: sensors with real exposure but zero
 logged flood events, and whether the manually-logged missing events are corroborated
@@ -18,7 +18,7 @@ by rain, tide/surge, or nearby 311 calls.
 3. **`3_tidal/Tidal_Corroboration.ipynb`** — checks each QC event against
    astronomical tide height and storm surge.
    - reads: `FloodNet_Data_Manual_QC.csv`, `2_weather/qc_rain_driver_check.csv`,
-     `../tidal_analysis/tidal_unified.geojson`, `../final_deployed_sensors.geojson`
+     `../2_tidal_analysis/tidal_unified.geojson`, `../final_deployed_sensors.geojson`
    - writes: `noaa_observed_water_levels.csv` (cache, gitignored),
      `tidal_corroboration_events.csv`
 4. **`4_311/311_Call_Verification.ipynb`** — checks each QC event against nearby
