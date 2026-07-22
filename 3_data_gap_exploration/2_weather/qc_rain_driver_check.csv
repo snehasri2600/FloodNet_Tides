@@ -1,0 +1,228 @@
+date,sensor_name,nearest_station_id,status
+2025-01-12,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-01-14,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-15,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-16,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-01-18,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-19,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,genuinely missing
+2025-01-19,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-01-19,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-01-19,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-20,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-01-20,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-20,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-21,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-01-21,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-22,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-22,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-01-23,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-01-24,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-01-25,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-01-30,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-01-31,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-02-05,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-02-08,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,no rain driver
+2025-02-08,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-02-08,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-02-09,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-09,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-10,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-02-10,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-10,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-10,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-02-11,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-12,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-13,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-02-16,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-02-19,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-02-24,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-02-25,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-02-25,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-03-02,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-03-02,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-03-05,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-03-05,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-03-05,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-03-06,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-03-06,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-03-08,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-03-08,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-03-08,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-03-09,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-03-09,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-03-09,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-03-11,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,no rain driver
+2025-03-11,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-03-11,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-03-11,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-03-11,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-03-14,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-03-16,BX - Tier St/William Ave,GHCND:US1NYNS0027,genuinely missing
+2025-03-16,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-03-18,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,genuinely missing
+2025-03-19,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-03-21,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,genuinely missing
+2025-03-21,BX - Tier St/William Ave,GHCND:US1NYNS0027,genuinely missing
+2025-03-21,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-03-24,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-03-24,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-03-25,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-03-26,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-03-27,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-03-27,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-03-29,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-03-30,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-03-31,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-03-31,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-03-31,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-03-31,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-03-31,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-04-02,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-04-03,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,genuinely missing
+2025-04-03,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-03,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-04-03,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-04-04,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-04-05,BX - Tier St/William Ave,GHCND:US1NYNS0027,genuinely missing
+2025-04-07,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-09,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-13,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-04-13,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-04-13,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-16,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-16,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-04-17,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-04-17,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-18,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-04-18,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-19,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,no rain driver
+2025-04-19,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-04-19,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-19,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-04-19,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-04-19,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-04-19,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-04-21,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-22,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-04-22,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-22,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-04-23,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-04-23,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-23,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-04-25,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-04-25,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-04-25,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-04-26,BX - Tier St/William Ave,GHCND:US1NYNS0027,genuinely missing
+2025-04-26,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,genuinely missing
+2025-04-26,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-04-26,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-26,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-04-27,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-28,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-29,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-04-29,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-04-30,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-05-03,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-05-03,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-05-03,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-05-04,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-05-04,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-05-06,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-05-06,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-05-07,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-05-08,BX - Tier St/William Ave,GHCND:US1NYNS0027,genuinely missing
+2025-05-08,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-05-10,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-05-11,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-05-12,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-05-13,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-05-17,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-05-20,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-05-21,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-05-30,BX - Tier St/William Ave,GHCND:US1NYNS0027,no rain driver
+2025-06-05,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-06-07,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-06-09,BX - Tier St/William Ave,GHCND:US1NYNS0027,genuinely missing
+2025-06-10,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-06-11,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,genuinely missing
+2025-06-11,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-06-12,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-06-12,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-06-21,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-06-23,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-06-23,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-06-24,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,no rain driver
+2025-06-24,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-06-24,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-06-24,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-06-25,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-07-16,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,genuinely missing
+2025-07-16,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-07-24,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-07-25,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,no rain driver
+2025-07-25,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-07-25,SI - Baden Pl/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-07-25,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-07-26,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-07-31,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-08-13,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-08-14,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-08-17,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-08-20,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-08-30,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-09-05,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-09-05,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,genuinely missing
+2025-09-05,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-09-18,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,genuinely missing
+2025-10-08,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-10-18,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-10-24,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-10-26,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-10-30,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,genuinely missing
+2025-10-30,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-11-02,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-11-03,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-11-08,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-11-08,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,genuinely missing
+2025-11-08,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-11-09,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-11-10,BX - Watson Ave/Close Ave,GHCND:USW00014732,genuinely missing
+2025-11-12,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-11-20,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,genuinely missing
+2025-11-26,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-12-02,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,genuinely missing
+2025-12-03,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-09,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-10,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-13,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-12-13,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,no rain driver
+2025-12-13,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-12-13,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-14,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-12-14,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-12-14,SI - Minthorne St/ Victory Blvd,GHCND:US1NYRC0016,no rain driver
+2025-12-14,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-14,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-12-15,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-12-15,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-12-15,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-16,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-12-16,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-17,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,no rain driver
+2025-12-17,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-18,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,no rain driver
+2025-12-18,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-19,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,in feed (on time)
+2025-12-26,SI - McLaughlin St/Agnes Pl,GHCND:US1NYRC0002,no rain driver
+2025-12-26,BX - Watson Ave/Close Ave,GHCND:USW00014732,no rain driver
+2025-12-27,SI - Hylan Blvd/ Jefferson Blvd,GHCND:US1NYRC0002,no rain driver
+2025-12-27,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,no rain driver
+2025-12-27,Q - Beach 49th St/Rockaway Beach Blvd,GHCND:USW00094789,no rain driver
+2025-12-27,Q - Beach Channel Dr/Beach 48th St,GHCND:USW00094789,no rain driver
+2025-12-27,SI - Snug Harbor Rd / Kissel Ave,GHCND:US1NYRC0016,no rain driver
+2025-12-28,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,no rain driver
+2025-12-28,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-29,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-30,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
+2025-12-31,SI - Bedford Ave/Kiswick St,GHCND:US1NYRC0002,no rain driver
+2025-12-31,SI - Grimsby St/ Mapleton Ave,GHCND:US1NYRC0002,no rain driver
