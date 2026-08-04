@@ -1,0 +1,75 @@
+sensor_name,borough,date_deployed,sensor_status,lowest_point_height_delta_inches,in_floodplain,tidally_influenced,days_live_before_2026
+BK - Hoyt St/5th St,Brooklyn,2020-10-05 00:00:00,good,17.17,True,No,1914
+BX - Sheridan Bl/173rd St,Bronx,2022-02-11 00:00:00,good,62.8,True,No,1420
+BK - Henry St/Mill St,Brooklyn,2022-02-18 00:00:00,needs_sensor,5.31,True,No,1413
+BK - Columbia St/Bay St,Brooklyn,2022-02-18 00:00:00,signal,12.83,True,No,1413
+SI - Jewett Ave/Castleton Ave,Staten Island,2022-07-22 00:00:00,signal,9.25,True,No,1259
+Q - Beach 66th St/Thursby Ave,Queens,2023-03-17 00:00:00,good,7.44,True,Yes,1021
+SI - McLaughlin St/Agnes Pl,Staten Island,2023-03-24 00:00:00,good,16.69,True,Yes,1014
+SI - Seaview Ave/Hylan Blvd,Staten Island,2023-03-24 00:00:00,good,14.65,True,Yes,1014
+SI - Boundary Ave/ Hull Ave,Staten Island,2023-05-19 00:00:00,good,12.24,True,No,958
+SI - Olympia Blvd/ Mapleton Ave,Staten Island,2023-05-19 00:00:00,good,11.65,True,Yes,958
+BX - Centre St/City Island Ave,Bronx,2023-07-21 00:00:00,good,11.42,True,Yes,895
+Q - Brookville Blvd/147 Ave,Queens,2023-08-17 00:00:00,good,6.61,True,Yes,868
+SI - Olympia/ Slater Blvd,Staten Island,2023-09-07 00:00:00,noisy,6.61,True,Yes,847
+BX - Cross St/Minnieford Ave,Bronx,2023-10-12 00:00:00,noisy,7.2,True,Yes,812
+BK - Flatlands 8th St/E 108th St,Brooklyn,2024-04-18 00:00:00,good,13.82,True,No,623
+BK - Flatlands Ave/E 80th St,Brooklyn,2024-04-18 00:00:00,signal,8.5,True,No,623
+BX - Harrod Pl/Morrison Ave,Bronx,2024-05-09 00:00:00,noisy,3.35,True,No,602
+M - Mangin St/Stanton St,Manhattan,2024-05-10 00:00:00,good,12.01,True,No,601
+M - E 108th St/1st Ave,Manhattan,2024-05-10 00:00:00,good,1.81,True,No,601
+M - E 6th St/FDR Dr,Manhattan,2024-05-10 00:00:00,good,7.83,True,No,601
+Q - 79th St/151st Ave,Queens,2024-05-16 00:00:00,good,56.69,True,No,595
+Q - Beach 29th St/Seagirt Ave,Queens,2024-05-16 00:00:00,good,28.43,True,No,595
+Q - 30th Pl/ 47th Ave,Queens,2024-06-06 00:00:00,good,8.03,True,No,574
+BK - Bay 49th St/Harway Ave,Brooklyn,2024-06-20 00:00:00,good,3.86,True,No,560
+M - W 147th St/Malcolm X Blvd,Manhattan,2024-07-02 14:55:00,good,16.69,True,No,547
+M - Dyckman St/Payson Ave,Manhattan,2024-07-02 15:05:00,good,17.28,True,No,547
+M - Park Ave/ Tito Puente Wy,Manhattan,2024-07-03 15:26:00,good,14.88,True,No,546
+M - Lexington Ave/E 104th St,Manhattan,2024-07-03 16:11:00,good,8.62,True,No,546
+M - E 117th St/1st Ave,Manhattan,2024-07-03 15:30:00,good,13.82,True,No,546
+BX - Story Ave/Boynton Ave,Bronx,2024-07-18 11:34:00,good,9.25,True,No,531
+BX - White Plains Rd/Story Ave,Bronx,2024-07-18 11:33:00,good,16.34,True,No,531
+Q - Beach 140th St/Cronston Ave,Queens,2024-07-18 03:38:37,good,5.24,True,Yes,531
+BX - Watson Ave/Close Ave,Bronx,2024-07-18 03:38:00,non-ota,24.37,True,No,531
+Q - Deerfield Rd/Beach 28th St,Queens,2024-07-19 12:15:00,dead,9.37,True,Yes,530
+Q - W 16th Rd/Cross Bay Blvd,Queens,2024-07-19 12:05:00,good,8.9,True,Yes,530
+M - Peck Slip/Front St,Manhattan,2024-07-24 03:38:00,non-ota,17.68,True,No,525
+M - Avenue C/E 5th St,Manhattan,2024-07-24 03:38:00,good,9.37,True,No,525
+M - E Houston St/Baruch Dr,Manhattan,2024-07-24 03:38:00,low_charge,7.8,True,No,525
+M - Lafayette St/White St,Manhattan,2024-07-24 03:38:00,good,6.38,True,No,525
+M - Varick St/Canal St,Manhattan,2024-07-24 03:38:00,good,11.54,True,No,525
+BK - Dover St/Shore Blvd,Brooklyn,2024-08-07 03:38:00,good,11.85,True,No,511
+BK - 35th St/3rd Ave,Brooklyn,2024-08-07 03:38:00,good,13.07,True,No,511
+BK - Nautilus Ave/Surf Ave,Brooklyn,2024-08-07 03:38:00,signal,7.8,True,No,511
+BK - 41st St/2nd Ave,Brooklyn,2024-08-07 03:38:00,good,13.58,True,No,511
+SI - Genesee Ave/Richmond Ave,Staten Island,2024-08-08 03:38:00,good,19.09,True,No,510
+SI - Barlow Ave/Abingdon Ave,Staten Island,2024-08-08 03:38:00,good,8.5,True,No,510
+Q - 145th Rd/Springfield Blvd,Queens,2024-08-14 10:55:00,good,9.25,True,No,504
+Q - 147th Ave/Springfield Ln,Queens,2024-08-14 10:40:00,good,12.83,True,No,504
+Q - 177th St/147th Ave,Queens,2024-08-14 10:45:00,good,14.65,True,No,504
+BK - Vanderbilt Ave/Flushing Ave,Brooklyn,2024-08-22 10:22:00,good,16.1,True,No,496
+BK - Linwood St/Wortman Ave,Brooklyn,2024-08-23 03:38:00,good,11.26,True,No,495
+Q - 1st St/Rockaway Blvd,Queens,2024-09-19 11:06:00,good,11.42,True,No,468
+BK - Mermaid Ave/W 32nd St,Brooklyn,2024-10-31 12:26:00,good,3.35,True,No,426
+BK - Ocean View Ave / Brighton 3rd St,Brooklyn,2024-10-31 12:38:00,good,8.39,True,No,426
+BX - Waters Pl/ Fink Ave,Bronx,2025-01-23 12:50:00,good,8.82,True,No,342
+SI - Minthorne St/ Victory Blvd,Staten Island,2025-02-19 16:15:00,good,7.8,False,Yes,315
+M - Barclay St/West St,Manhattan,2025-08-21 11:47:00,good,12.13,True,No,132
+M - Broad St/South St,Manhattan,2025-08-22 12:00:00,good,13.58,True,No,131
+Q - 44th Dr / Jackson Ave,Queens,2025-08-29 12:04:00,good,2.4,True,No,124
+BK - Jewel St/ Greenpoint Ave,Brooklyn,2025-08-29 11:51:00,dead,11.69,True,No,124
+BX - Lincoln Ave / Bruckner Blvd,Bronx,2025-09-04 13:42:00,good,11.54,True,No,118
+Q - Linden Pl/ 28th Ave,Queens,2025-09-11 12:11:00,good,4.69,True,No,111
+M - E 23rd St/FDR Drive,Manhattan,2025-10-10 11:02:00,good,9.02,True,No,82
+SI - Laredo Ave/Pompey Ave,Staten Island,2025-10-17 13:00:00,noisy,8.9,True,No,75
+BX - Dewey Ave/ Balcom Ave,Bronx,2025-10-24 12:00:00,good,11.65,True,No,68
+M - Sherman Ave/Academy St,Manhattan,2025-10-31 12:24:00,noisy,7.09,True,No,61
+BK - E104th St/ Ave M,Brooklyn,2025-10-31 12:00:00,good,11.5,True,No,61
+BK - E102nd St/ Ave N,Brooklyn,2025-10-31 12:00:00,good,3.94,True,No,61
+M - Vermilyea Ave/ Academy St,Manhattan,2025-10-31 12:29:00,good,6.26,True,No,61
+M - W 29th St/12th Ave,Manhattan,2025-11-07 12:01:00,good,6.61,True,No,54
+M - W 24th St/12th Ave,Manhattan,2025-11-07 11:57:00,good,8.78,True,No,54
+M - W 42nd St/11th Ave,Manhattan,2025-11-07 12:09:00,good,4.57,True,No,54
+BX - Newman Ave/ Gildersleeve Ave,Bronx,2025-11-14 12:00:00,good,8.66,True,No,47
+Q - Craft Ave/Huxley St,Queens,2025-11-21 12:00:00,good,8.62,True,Yes,40

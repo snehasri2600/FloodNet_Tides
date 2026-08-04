@@ -28,7 +28,7 @@ every downstream notebook across stages 2 and 3 reads them from here.
 ## Setup
 
 **Python packages:** `pandas`, `geopandas`, `shapely`, `numpy`, `scipy`, `requests`,
-`folium`, `branca`, `utide`, `dataretrieval`.
+`folium`, `branca`, `utide`, `dataretrieval`, `scikit-learn`.
 
 **NCEI CDO API token** (for `3_data_gap_exploration/2_weather/Weather_Data_Scrape.ipynb`):
 get a free token at https://www.ncei.noaa.gov/cdo-web/token, then copy
